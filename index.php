@@ -1,1 +1,1 @@
-<?php echo "PHP APP 1"?>
+<?php echo "Training Test"?>
